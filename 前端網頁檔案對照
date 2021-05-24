@@ -1,0 +1,17 @@
+* 登入(index.html)
+* 註冊(sign_up.html)
+
+老師有這些網頁: 
+* 活動編輯(ActivityInformation.html)     
+* 心得審核(review_check.html)
+* 心得連結(review_check_url.html)  此為在**心得審核頁面**的心得連結
+* 審核總覽(verify_list.html)
+* 心得連結(review_readonly.html)   此為在**審核總覽頁面**的心得連結
+* 達兩學分者總覽(award_of_review.html)
+* 後台管理(backend.html)             
+
+學生網頁:
+* 心得填寫(credential_editor.html)
+* 個人證書一覽表(personal_micro_credit_list.html)
+* 心得審核狀態查詢(personal_micro_credit_apply.html)
+* 心得(feedback.html)              此為在**心得審核狀態查詢**的心得超連結
